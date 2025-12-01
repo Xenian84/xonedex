@@ -1,0 +1,14 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#050816" rx="80"/>
+  <text x="200" y="250" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="140" font-weight="700"
+        fill="#7BA8FF">
+    XONE
+  </text>
+  <text x="200" y="310" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="50" font-weight="600"
+        fill="#E5E7FF" opacity="0.8">
+    DEX
+  </text>
+</svg>
+

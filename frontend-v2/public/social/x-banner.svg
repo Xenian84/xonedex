@@ -1,0 +1,32 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0a1428"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" fill="url(#bannerGrad)"/>
+  
+  <!-- Main Logo -->
+  <text x="750" y="280" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="120" font-weight="700"
+        fill="#7BA8FF">
+    Xone<tspan fill="#E5E7FF">DEX</tspan>
+  </text>
+  
+  <!-- Tagline -->
+  <text x="750" y="340" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="36" font-weight="400"
+        fill="#8e92bc">
+    The One DEX for X1 Blockchain
+  </text>
+  
+  <!-- Features -->
+  <text x="750" y="400" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="24" font-weight="300"
+        fill="#5a5d7a">
+    Native XNT • Token 2022 • Uniswap V2 AMM
+  </text>
+</svg>
+
