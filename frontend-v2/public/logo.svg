@@ -1,20 +1,7 @@
-<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="xd_grad_4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00C6FF"/>
-      <stop offset="100%" stop-color="#1A3CFF"/>
-    </linearGradient>
-  </defs>
-  <rect width="520" height="160" fill="#050816"/>
-  <text x="260" y="80" text-anchor="middle"
-        font-family="Sora" font-size="50" font-weight="700"
-        fill="url(#xd_grad_4)">
-    XoneDEX
-  </text>
-  <text x="260" y="110" text-anchor="middle"
-        font-family="Sora" font-size="14" font-weight="300"
-        fill="#9CA3FF">
-    The One DEX for X1
+<svg width="240" height="50" viewBox="0 0 240 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="120" y="36" text-anchor="middle"
+        font-family="Sora, sans-serif" font-size="40" font-weight="600"
+        fill="#E5E7FF">
+    Xone<tspan fill="#7BA8FF">DEX</tspan>
   </text>
 </svg>
-
