@@ -64,7 +64,8 @@ export function getX1ExplorerUrl(
     case 'address':
       return `${baseUrl}/address/${value}`;
     case 'token':
-      return `${baseUrl}/token/${value}`;
+      // X1 explorer uses /address/ for tokens, not /token/
+      return `${baseUrl}/address/${value}`;
     default:
       return baseUrl;
   }

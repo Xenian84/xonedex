@@ -349,8 +349,8 @@ function TokenRow({
   
   const handleViewExplorer = (e: React.MouseEvent) => {
     e.stopPropagation();
-    // For native token, use the native mint address in explorer
-    const explorerUrl = `${networkConfig.explorerUrl}/token/${displayAddress}`;
+    // Use /address/ instead of /token/ for X1 explorer
+    const explorerUrl = `${networkConfig.explorerUrl}/address/${displayAddress}`;
     window.open(explorerUrl, '_blank');
     setShowMenu(false);
   };
