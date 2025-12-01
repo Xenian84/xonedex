@@ -1,0 +1,24 @@
+[package]
+name = "ammv2"
+version = "0.1.0"
+description = "Uniswap V2 AMM ported to X1 blockchain"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "ammv2"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.31.1"
+anchor-spl = "0.31.1"
+spl-token = { version = "4.0", features = ["no-entrypoint"] }
+spl-token-2022 = { version = "7.0.0", features = ["no-entrypoint"] }
+borsh = "1.5"
+

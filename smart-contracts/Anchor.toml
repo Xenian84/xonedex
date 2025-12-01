@@ -1,0 +1,23 @@
+[tool-chain]
+solana-version = "2.1.0"
+anchor_version = "0.31.1"
+
+[features]
+seeds = false
+
+[programs.x1-local]
+ammv2 = "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK"
+
+[programs.x1-testnet]
+ammv2 = "2Sya8FEfD1J6wbR6imW6YFjQgaamLQY1ZSghRPKWSxPu"
+
+[programs.x1-mainnet]
+ammv2 = "AMMEDavgL7M5tbrxoXmtmxM7iArJb98KkoBW1EtFFJ2"
+
+[registry]
+url = "https://github.com/xuniswap/xuniswap-ammv2"
+
+[provider]
+cluster = "testnet"
+wallet = "~/.config/solana/id.json"
+

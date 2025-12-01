@@ -1,0 +1,50 @@
+{
+  "name": "XoneDEX Official Token List",
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 0
+  },
+  "timestamp": "2025-11-28T23:15:00Z",
+  "tokens": [
+    {
+      "chainId": 204005,
+      "address": "A35B7BZ1soQAhJJvu3uuEqd8fuRx14UDDU7zkXuieUCF",
+      "symbol": "JACK",
+      "name": "Jack",
+      "decimals": 9,
+      "logoURI": "https://token-list.xonedex.xyz/tokens/jack.jpg",
+      "tags": [],
+      "verified": true,
+      "website": "https://x.com/mrJackLevin",
+      "extensions": {
+        "program": "Token2022"
+      }
+    },
+    {
+      "chainId": 204005,
+      "address": "C1Jb5Uem5nsTsjjxjsRPVDGW2ybMuRc1wxhWhKrJsMvs",
+      "symbol": "XENCAT",
+      "name": "XEN CAT",
+      "decimals": 9,
+      "logoURI": "https://token-list.xonedex.xyz/tokens/xencat.jpg",
+      "tags": [],
+      "verified": true,
+      "extensions": {}
+    },
+    {
+      "chainId": 204005,
+      "address": "1sYQawEHQkACQLC3vrcJFCNezRB5cvK7ErYR5UpdkHC",
+      "symbol": "XNM",
+      "name": "XNM",
+      "decimals": 9,
+      "logoURI": "https://token-list.xonedex.xyz/tokens/xnm.webp",
+      "tags": [],
+      "verified": true,
+      "extensions": {
+        "program": "Token2022"
+      }
+    }
+  ]
+}
+

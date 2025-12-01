@@ -1,0 +1,25 @@
+{
+  "name": "XoneDEX Mainnet Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "timestamp": "2025-11-29T23:53:52.543Z",
+  "tokens": [
+    {
+      "chainId": 204,
+      "address": "EMoSqD8xT4BRnzVWY3pmiddHe9Mf82EmgeXFF9LMuJcn",
+      "symbol": "JACK",
+      "name": "Jack",
+      "decimals": 9,
+      "logoURI": "https://token-list.xonedex.xyz/tokens/jack.jpg",
+      "tags": [],
+      "verified": true,
+      "website": "https://x.com/mrJackLevin",
+      "extensions": {
+        "program": "Token2022"
+      }
+    }
+  ]
+}
