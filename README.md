@@ -85,15 +85,19 @@ npm run dev
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
+- **Forked from**: [anchor-uniswap-v2](https://github.com/0xNineteen/anchor-uniswap-v2) by [0xNineteen](https://github.com/0xNineteen)
 - Built on [X1 Blockchain](https://x1.xyz)
 - Inspired by [Uniswap V2](https://uniswap.org/)
 - Uses [Anchor Framework](https://www.anchor-lang.com/)
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Note**: This project is a fork of [anchor-uniswap-v2](https://github.com/0xNineteen/anchor-uniswap-v2) and maintains the same MIT license.
 
 ---
 
