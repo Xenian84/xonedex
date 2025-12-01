@@ -109,3 +109,7 @@ Cargo.lock
 smart-contracts/*.json
 smart-contracts/*.md
 !smart-contracts/README.md
+
+# Social media assets (not needed in repo)
+frontend-v2/public/social/
+**/social/
